@@ -1,3 +1,4 @@
 This is my first Git commit using Colab.
 Edited from GitHub interface.
+Change from Partner A
 Change from Partner B
